@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /private/
+Sitemap: https://YvonneH15.github.io/french_with_yvonne/sitemap.xml
